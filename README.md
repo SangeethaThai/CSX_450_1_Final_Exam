@@ -6,9 +6,9 @@
 
   The Problem is to predict the age of the Abalone from Physical Measurements.
   
-  Normally, an Abalone's age is normally predicted by cutting the shell and counting the rings inside. So to automate this repetitive, boring, manual task physical measurements of the Abalone are collected to predict its age.
+  An Abalone's age is normally predicted by cutting the shell and counting the rings inside. So to automate this repetitive, boring, manual task physical measurements of the Abalone are collected to predict its age.
 
-The last column "Rings" is the Target or the variable we want to predict.
+  The theory is that if we can figure out a way to predict the number of rings on an Abalone based on its physical measurements, then we can add 1.5 years to it to arrive at its actual age.
 
 
 
